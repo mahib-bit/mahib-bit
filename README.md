@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Social Media:</p>
+## 🌐 Socials:
 
 ###
 
