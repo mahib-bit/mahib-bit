@@ -11,16 +11,19 @@
 ###
 
 <div align="left">
-  <a href="discordapp.com/users/694577184526041100" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
   <a href="https://www.facebook.com/sadman.mahib/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="40" />
   </a>
+  <img width="12" />
   <a href="https://www.instagram.com/mahib.zip/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" />
+  </a>
+  <img width="12" />
+  <a href="https://discord.com/users/mahib0740" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-mahib0740-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
 </div>
+
 
 ###
 
@@ -44,6 +47,18 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  
+<div align="left">
+  <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge" height="40" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?logo=nvidia&logoColor=black&style=for-the-badge" height="40" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/AMD-ED1C24?logo=amd&logoColor=white&style=for-the-badge" height="40" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Epic_Games-313131?logo=epicgames&logoColor=white&style=for-the-badge" height="40" />
+</div>
+
+
 </div>
 
 ###
@@ -51,7 +66,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://cdnb.artstation.com/p/assets/images/images/049/379/287/original/bajusz-adrian-elden-ring-2.gif?1652355008"  />
+  <img src="./bajusz-adrian-elden-ring-2.gif" height="200" />
 </div>
 
 ###
