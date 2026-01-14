@@ -51,8 +51,6 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge" height="40" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/NVIDIA-76B900?logo=nvidia&logoColor=black&style=for-the-badge" height="40" />
-  <img width="12" />
   <img src="https://img.shields.io/badge/AMD-ED1C24?logo=amd&logoColor=white&style=for-the-badge" height="40" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Epic_Games-313131?logo=epicgames&logoColor=white&style=for-the-badge" height="40" />
