@@ -2,22 +2,13 @@
   
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="50" /> Hey, I'm Mahib!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Student;Web+Developer;Game+Development+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Student;Learning+Developer;Game+Development+Enthusiast" alt="Typing SVG" />
 
 </div>
 
 ### 👨‍💻 About Me
 
-```yaml
-name: Mahib
-located_in: Dhaka, Bangladesh
-current_study: Computer Science & Engineering
-university: Daffodil International University
-interests:
-  - Web Development
-  - Game Development
-  - Learning Modern Tech Stack
-  - Building Portfolio Projects
+<p align="left">I’m Mahib, currently studying Computer Science & Engineering at Daffodil International University, Bangladesh.<br><br>Learning Web Development & Game Development.I enjoy what I do, but I’m eager to grow beyond my current tech stack. I’m learning modern, industry-standard technologies and building my portfolio to challenge myself and move forward.</p>
 ```
 
 <br clear="both">
@@ -31,8 +22,6 @@ interests:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sadman.mahib/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mahib.zip/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/mahib0740)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](#)
 
 </div>
 
@@ -82,8 +71,6 @@ interests:
 ---
 
 <div align="center">
-
-### 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=mahib-bit&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
