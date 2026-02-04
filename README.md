@@ -9,7 +9,6 @@
 ### 👨‍💻 About Me
 
 <p align="left">I’m Mahib, currently studying Computer Science & Engineering at Daffodil International University, Bangladesh.<br><br>Learning Web Development & Game Development.I enjoy what I do, but I’m eager to grow beyond my current tech stack. I’m learning modern, industry-standard technologies and building my portfolio to challenge myself and move forward.</p>
-```
 
 <br clear="both">
 
