@@ -6,10 +6,6 @@
 
 </div>
 
-<br>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 ### 👨‍💻 About Me
 
 ```yaml
@@ -22,8 +18,6 @@ interests:
   - Game Development
   - Learning Modern Tech Stack
   - Building Portfolio Projects
-
-motto: "Challenging myself to grow beyond my comfort zone"
 ```
 
 <br clear="both">
@@ -89,71 +83,14 @@ motto: "Challenging myself to grow beyond my comfort zone"
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahib-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahib-bit&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahib-bit&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=mahib-bit&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-
-### 📈 Most Used Languages
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahib-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Current Focus
-
-```mermaid
-mindmap
-  root((Mahib))
-    Web Development
-      React.js
-      Next.js
-      TailwindCSS
-      Full Stack
-    Game Development
-      Unreal Engine
-      Game Design
-      3D Modeling
-    Learning
-      Data Structures
-      Algorithms
-      System Design
-    Building
-      Portfolio Projects
-      Open Source
-      Side Projects
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
 ### 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=mahib-bit&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
----
-
 <div align="center">
   <img src="./bajusz-adrian-elden-ring-2.gif" height="200" />
 </div>
+---
+
