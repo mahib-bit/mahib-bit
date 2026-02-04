@@ -78,5 +78,3 @@
 <div align="center">
   <img src="./bajusz-adrian-elden-ring-2.gif" height="200" />
 </div>
----
-
