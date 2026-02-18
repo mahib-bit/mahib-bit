@@ -74,7 +74,8 @@
 ![](https://komarev.com/ghpvc/?username=mahib-bit&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 
-![Tarnished Counter](https://elden-ring-counter.vercel.app/api/counter)
+![Tarnished Counter](https://img.shields.io/endpoint?url=https%3A%2F%2Felden-ring-counter.vercel.app%2Fapi%2Fcounter)
+
 
 
 </div>
