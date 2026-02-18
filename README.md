@@ -75,6 +75,10 @@
 
 </div>
 
+
+Current count: ![Counter](https://img.shields.io/endpoint?url=https%3A%2F%2Felden-ring-counter.vercel.app%2Fapi%2Fcounter)
+
+
 <div align="center">
   <img src="./bajusz-adrian-elden-ring-2.gif" height="200" />
 </div>
