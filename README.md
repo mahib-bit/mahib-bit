@@ -73,7 +73,9 @@
 
 ![](https://komarev.com/ghpvc/?username=mahib-bit&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-![Grace Counter](https://your-vercel-url.vercel.app/api/counter)
+# Elden Ring Counter
+
+![Tarnished Counter](https://elden-ring-counter.vercel.app/api/counter)
 
 
 </div>
