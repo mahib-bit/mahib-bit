@@ -1,39 +1,31 @@
 <div align="center">
+  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="50" /> ᚺᛖᛃ, I'm Mahib — The Tarnished Scholar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=48&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=RISE,+TARNISHED.;MAHIB+OF+THE+LANDS+BETWEEN" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=mahib-bit&color=8B8000&style=for-the-badge&label=SOULS+WHO+HAVE+TRAVERSED" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=30&pause=1000&color=C6A85A&center=true&vCenter=true&random=false&width=700&lines=Computer+Science+Student;Learning+Web+Development;Game+Development+Enthusiast" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## ⚔️ The Chronicle
+### ⚔️ About Me
 
-I am Mahib, a student of Computer Science & Engineering at Daffodil International University, Bangladesh.
+<p align="left">
+I’m Mahib, currently studying Computer Science & Engineering at Daffodil International University, Bangladesh.<br><br>
+Learning Web Development & Game Development. I enjoy what I do, yet I seek greater trials beyond my current tech stack. I study modern, industry-forged technologies and craft my portfolio to test my strength and rise further.
+</p>
 
-Forged in logic.  
-Tempered in algorithms.  
-Guided by curiosity.
-
-I walk the path of:
-- Web Development  
-- Game Development  
-- Modern Industry Technologies  
-
-Ever striving to ascend beyond my current form.
+<br clear="both">
 
 ---
 
 <div align="center">
 
-## 🜂 Sigils of Connection
+## 🌑 The Roundtable Hold
 
-[![Facebook](https://img.shields.io/badge/Facebook-1a1a1a?style=for-the-badge&logo=facebook&logoColor=FFD700)](https://www.facebook.com/sadman.mahib/)
-[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=FFD700)](https://www.instagram.com/mahib.zip/)
-[![Discord](https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=FFD700)](https://discord.com/users/mahib0740)
+[![Facebook](https://img.shields.io/badge/Facebook-1a1a1a?style=for-the-badge&logo=Facebook&logoColor=C6A85A)](https://www.facebook.com/sadman.mahib/)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=Instagram&logoColor=C6A85A)](https://www.instagram.com/mahib.zip/)
+[![Discord](https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=C6A85A)](https://discord.com/users/mahib0740)
 
 </div>
 
@@ -41,32 +33,42 @@ Ever striving to ascend beyond my current form.
 
 <div align="center">
 
-## 🛡 Arsenal of Knowledge
+## 🛡️ Tech Arsenal
 
-### ⚙ Ancient Tongues (Programming Languages)
+### ⚔️ Programming Languages
 
-<img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/C-1a1a1a?style=for-the-badge&logo=c&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=FFD700"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=C6A85A"/>
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=C6A85A"/>
+  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=C6A85A"/>
+  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=C6A85A"/>
+</p>
 
----
+### 🌒 Web Technologies
 
-### 🏰 Webcraft
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=C6A85A"/>
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=C6A85A"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=C6A85A"/>
+</p>
 
-<img src="https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/TailwindCSS-1a1a1a?style=for-the-badge&logo=tailwind-css&logoColor=FFD700"/>
+### 🧿 Tools & Platforms
 
----
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=C6A85A"/>
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=C6A85A"/>
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=C6A85A"/>
+  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=C6A85A"/>
+</p>
 
-### 🧭 Instruments & Relics
+### 🎮 Gaming & Entertainment
 
-<img src="https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge&logo=visual-studio-code&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Unreal%20Engine-1a1a1a?style=for-the-badge&logo=unreal-engine&logoColor=FFD700"/>
+<p>
+  <img src="https://img.shields.io/badge/Steam-111111?style=for-the-badge&logo=steam&logoColor=C6A85A"/>
+  <img src="https://img.shields.io/badge/Epic%20Games-111111?style=for-the-badge&logo=Epic%20Games&logoColor=C6A85A"/>
+  <img src="https://img.shields.io/badge/AMD-111111?style=for-the-badge&logo=amd&logoColor=C6A85A"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-111111?style=for-the-badge&logo=unreal-engine&logoColor=C6A85A"/>
+</p>
 
 </div>
 
@@ -74,6 +76,10 @@ Ever striving to ascend beyond my current form.
 
 <div align="center">
 
-<img src="./bajusz-adrian-elden-ring-2.gif" height="250" />
+![](https://komarev.com/ghpvc/?username=mahib-bit&color=C6A85A&style=for-the-badge&label=GRACE+AWAKENED)
 
+</div>
+
+<div align="center">
+  <img src="./bajusz-adrian-elden-ring-2.gif" height="200" />
 </div>
