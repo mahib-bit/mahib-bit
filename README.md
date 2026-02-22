@@ -1,6 +1,6 @@
 <div align="center">
   
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="50" /> ᚺᛖᛃ, I'm Mahib — The Tarnished Scholar
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="50" /> ᚺi, I'm Mahib
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=30&pause=1000&color=C6A85A&center=true&vCenter=true&random=false&width=700&lines=Computer+Science+Student;Learning+Web+Development;Game+Development+Enthusiast" alt="Typing SVG" />
 
@@ -28,8 +28,6 @@ Learning Web Development & Game Development. I enjoy what I do, yet I seek great
 [![Discord](https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=C6A85A)](https://discord.com/users/mahib0740)
 
 </div>
-
----
 
 <div align="center">
 
