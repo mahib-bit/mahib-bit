@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mahib-bit&color=C6A85A&style=for-the-badge&label=GRACE+AWAKENED" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=mahib-bit&color=C6A85A&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Views" />
 
 </div>
 
