@@ -8,8 +8,6 @@
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/◈%20Facebook-1a1733?style=for-the-badge&logo=facebook&logoColor=C6A85A)](https://www.facebook.com/sadman.mahib/)
-&nbsp;
 [![Instagram](https://img.shields.io/badge/◈%20Instagram-1a1733?style=for-the-badge&logo=instagram&logoColor=C6A85A)](https://www.instagram.com/mahib.zip/)
 &nbsp;
 [![Discord](https://img.shields.io/badge/◈%20Discord-1a1733?style=for-the-badge&logo=discord&logoColor=C6A85A)](https://discord.com/users/mahib0740)
