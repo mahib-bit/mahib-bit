@@ -76,6 +76,14 @@
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=mahib-bit&color=C6A85A&style=for-the-badge&label=GRACE+AWAKENED" alt="Profile Views" />
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
 <img src="./bajusz-adrian-elden-ring-2.gif" height="220" alt="Elden Ring GIF" />
 
 </div>
