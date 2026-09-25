@@ -8,11 +8,11 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/◈%20Instagram-1a1733?style=for-the-badge&logo=instagram&logoColor=C6A85A)](https://www.instagram.com/mahib.zip/)
+[![Instagram](https://img.shields.io/badge/◈%20Instagram-1a0505?style=for-the-badge&logo=instagram&logoColor=C6A85A)](https://www.instagram.com/mahib.zip/)
 &nbsp;
-[![Discord](https://img.shields.io/badge/◈%20Discord-1a1733?style=for-the-badge&logo=discord&logoColor=C6A85A)](https://discord.com/users/mahib0740)
+[![Discord](https://img.shields.io/badge/◈%20Discord-1a0505?style=for-the-badge&logo=discord&logoColor=C6A85A)](https://discord.com/users/mahib0740)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/◈%20GitHub-1a1733?style=for-the-badge&logo=github&logoColor=C6A85A)](https://github.com/mahib-bit)
+[![GitHub](https://img.shields.io/badge/◈%20GitHub-1a0505?style=for-the-badge&logo=github&logoColor=C6A85A)](https://github.com/mahib-bit)
 
 </div>
 
@@ -32,44 +32,73 @@
 
 <div align="center">
 
-### ⚔️ Languages
+### Languages
 
 <p>
-<img src="https://img.shields.io/badge/JavaScript-1a1733?style=for-the-badge&logo=javascript&logoColor=C6A85A"/>
-<img src="https://img.shields.io/badge/Python-1a1733?style=for-the-badge&logo=python&logoColor=C6A85A"/>
-<img src="https://img.shields.io/badge/Java-1a1733?style=for-the-badge&logo=openjdk&logoColor=C6A85A"/>
-<img src="https://img.shields.io/badge/C-1a1733?style=for-the-badge&logo=c&logoColor=C6A85A"/>
-<img src="https://img.shields.io/badge/C++-1a1733?style=for-the-badge&logo=c%2B%2B&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/JavaScript-1a0505?style=for-the-badge&logo=javascript&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/Python-1a0505?style=for-the-badge&logo=python&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/Java-1a0505?style=for-the-badge&logo=openjdk&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/C-1a0505?style=for-the-badge&logo=c&logoColor=C6A85A"/>
 </p>
 
-### 🌒 Web & Frontend
+### Frontend
 
 <p>
-<img src="https://img.shields.io/badge/React-1a1733?style=for-the-badge&logo=react&logoColor=C6A85A"/>
-<img src="https://img.shields.io/badge/React_Router-1a1733?style=for-the-badge&logo=reactrouter&logoColor=C6A85A"/>
-<img src="https://img.shields.io/badge/TailwindCSS-1a1733?style=for-the-badge&logo=tailwind-css&logoColor=C6A85A"/>
-<img src="https://img.shields.io/badge/DaisyUI-1a1733?style=for-the-badge&logo=daisyui&logoColor=C6A85A"/>
-<img src="https://img.shields.io/badge/HTML5-1a1733?style=for-the-badge&logo=html5&logoColor=C6A85A"/>
-<img src="https://img.shields.io/badge/CSS3-1a1733?style=for-the-badge&logo=css3&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/React-1a0505?style=for-the-badge&logo=react&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/React_Router-1a0505?style=for-the-badge&logo=reactrouter&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/TailwindCSS-1a0505?style=for-the-badge&logo=tailwind-css&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/DaisyUI-1a0505?style=for-the-badge&logo=daisyui&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/HTML5-1a0505?style=for-the-badge&logo=html5&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/CSS3-1a0505?style=for-the-badge&logo=css3&logoColor=C6A85A"/>
 </p>
 
-### 🔥 Backend & Deployment
+### Backend & Database
 
 <p>
-<img src="https://img.shields.io/badge/Firebase-1a1733?style=for-the-badge&logo=firebase&logoColor=C6A85A"/>
-<img src="https://img.shields.io/badge/Vercel-1a1733?style=for-the-badge&logo=vercel&logoColor=C6A85A"/>
-<img src="https://img.shields.io/badge/Netlify-1a1733?style=for-the-badge&logo=netlify&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/Node.js-1a0505?style=for-the-badge&logo=nodedotjs&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/Express.js-1a0505?style=for-the-badge&logo=express&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/MongoDB-1a0505?style=for-the-badge&logo=mongodb&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/Firebase-1a0505?style=for-the-badge&logo=firebase&logoColor=C6A85A"/>
 </p>
 
-### 🧿 Tools & Platforms
+### Deployment & Tools
 
 <p>
-<img src="https://img.shields.io/badge/VS%20Code-1a1733?style=for-the-badge&logo=visual-studio-code&logoColor=C6A85A"/>
-<img src="https://img.shields.io/badge/Git-1a1733?style=for-the-badge&logo=git&logoColor=C6A85A"/>
-<img src="https://img.shields.io/badge/GitHub-1a1733?style=for-the-badge&logo=github&logoColor=C6A85A"/>
-<img src="https://img.shields.io/badge/Figma-1a1733?style=for-the-badge&logo=figma&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/Vercel-1a0505?style=for-the-badge&logo=vercel&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/Netlify-1a0505?style=for-the-badge&logo=netlify&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/VS%20Code-1a0505?style=for-the-badge&logo=visual-studio-code&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/Git-1a0505?style=for-the-badge&logo=git&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/GitHub-1a0505?style=for-the-badge&logo=github&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/Figma-1a0505?style=for-the-badge&logo=figma&logoColor=C6A85A"/>
+<img src="https://img.shields.io/badge/Kiro-1a0505?style=for-the-badge&logo=ko-fi&logoColor=C6A85A"/>
 </p>
 
+</div>
+
+---
+
+<h3 align="center">✦ GitHub Metrics & Activity ✦</h3>
+
+<div align="center">
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahib-bit&show_icons=true&hide_border=true&bg_color=180505&title_color=C6A85A&text_color=fff3c4&icon_color=C6A85A&ring_color=C6A85A" alt="Mahib's GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.demolab.com?user=mahib-bit&hide_border=true&background=180505&stroke=C6A85A&side_labels=true&ring=C6A85A&fire=C6A85A&currStreakNum=fff3c4&sideNums=fff3c4" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahib-bit&layout=compact&hide_border=true&bg_color=180505&title_color=C6A85A&text_color=fff3c4" alt="Top Languages" />
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahib-bit&bg_color=180505&color=C6A85A&line=C6A85A&point=fff3c4&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
