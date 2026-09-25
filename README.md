@@ -77,32 +77,6 @@
 
 ---
 
-<h3 align="center">✦ GitHub Metrics & Activity ✦</h3>
-
-<div align="center">
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mahib-bit&show_icons=true&hide_border=true&bg_color=180505&title_color=C6A85A&text_color=fff3c4&icon_color=C6A85A&ring_color=C6A85A" alt="Mahib's GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.demolab.com?user=mahib-bit&hide_border=true&background=180505&stroke=C6A85A&side_labels=true&ring=C6A85A&fire=C6A85A&currStreakNum=fff3c4&sideNums=fff3c4" alt="GitHub Streak" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahib-bit&layout=compact&hide_border=true&bg_color=180505&title_color=C6A85A&text_color=fff3c4" alt="Top Languages" />
-</p>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahib-bit&bg_color=180505&color=C6A85A&line=C6A85A&point=fff3c4&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=mahib-bit&color=C6A85A&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Views" />
